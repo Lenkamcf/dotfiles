@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = lenkamcf@gmail.com
+	name = Lenka Chavez
